@@ -3,59 +3,13 @@
 Our purpose today is to notice – what works, what doesn’t work? We’ll think about your workflows and how you collaborate.
 
 ## What are things you know about yourself and how you work? 
+
 ::: {.callout-note appearance="minimal" icon="false"}
+
 <!---p.1--->
 *What are the conditions when you do your best work? This could be things like I write best in the mornings, I am comfortable speaking up in new spaces.*
 
-
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+I work best when I do not have music or any other noise as distractions. I work well when surrounded by others who are equally committed to working productively and quietly – it's nice to have them there as a forcing / accountability mechanism, and people to ask questions to when they arise naturally. I like to work in large chunks of time, uninterrupted - usually this happens in the afternoon. I like to read and prepare before being asked to contribute meaningfully to discussions; I will speak up in new spaces and ask questions, but I won't be as comfortable contributing my own ideas if I haven't had time to consider my approach in detail, first. I take super detailed notes and feel most comfortable when I'm able to do this without question.
 :::
 
 
@@ -67,33 +21,11 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *Think across your different workflows. Where do you do your writing? How do you manage citations or versions? How do software and files connect together? If you analyze data or images, what do you use?*
 
-
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
+I do my writing in Google Docs but I want to move over to Latex, although I think that's worse for collaboration.
+I manage my citations in Paperpile.
+I write code in Python and R, but feel comfortable with just about anything. I use Git for version control, but most of it is not public. I contribute to Carlson Lab and VERENA organizations.
+I keep notes about everything, including annotations for citations, projects, tasks, ...literally everything... in Obsidian.
+I love Airtable for managing files or data inventories, as well as qualitative coding tasks.
 :::
 
 
@@ -105,29 +37,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *You can do this think of a specific project or piece of your workflow, or multiple projects. What does an example day or week look like? Do you write notes to yourself or document your process? Do you use sticky notes, apps, a document, a calendar? How do you find things weekly or come back to something after a month, a year?*
 
-  
-
- 
-
-  
-
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
-
+I track tasks using Obsidian. It uses a Wikilinks style mechanism to link ideas, citations, topics etc. across projects, meetings, and other notes. Everything is incredibly detailed – the more verbatim, the better. I am someone who processes things internally vs externally so I often write detailed notes as I process each item/task, since they all have their own individual notes in my system. I do keep documents for each project - sort of a living slide deck that I can pull from and build off of for presentations. I keep meetings in my calendar, with notes in Obsidian. If I need to share out meeting notes, I do it from there.
 :::
 
 ## How do you collaborate with colleagues? 
@@ -138,33 +48,9 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *Who is included in your workflow? How do you share files and communicate? If you think "I work alone", consider who you talk to, how do you give and receive feedback?*
 
-  
+The most critical people in my workflow are my PIs - most of my process starts with me making a relatively rough draft, sharing out to Nate or Colin for initial feedback, and then reaching out to other individuals with the specific expertise that I need on a case-by-case basis. When I share files, I typically do it as a Google doc - although in the past I have used GitHub issues / pull requests / code reviews more frequently. When I communicate, I typically do it via Slack but email if it's important and needs to not get lost. Or Ring Central / Glip if it's Nate. 
 
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
+When I give feedback, I do it in whichever form is most beneficial to my teammate. I am very thorough. If it's a writing task, I like to suggest edits and use comments. If it's a visual taks, I like to talk in-person or on Zoom to iterate. I prefer to have context for the feedback - situated within the larger picture.
 
 :::
 
@@ -176,43 +62,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *There are good things about your workflow. What feels good to you?*
 
-
-  
-
- 
-
-  
- 
- 
- 
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
+Very organized. Very easy to locate things. 
 
 :::
 
@@ -225,41 +75,10 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *Are there places you suspect take longer than they should or could improve in other ways? Are there things you find yourself repeating a lot (copy-pasting, clicking?)*
 
+Connection between GDrive/Obsidian is not great.
+No storage from Yale in GDrive.
+Figuring out how to schedule meetings better; more effectively.
 
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
-  
-
-  
-
- 
 :::
 
 
@@ -271,29 +90,7 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *What might be a focus for the next few weeks?*
 
-  
-
- 
-
-  
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
-  
-
- 
-
+More free brain time. With no classes and meetings. 
+Missing Slack huddles. Wanting more interfacing.
 
 :::
