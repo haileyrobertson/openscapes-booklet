@@ -10,55 +10,8 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 <!---p.1--->
 
 *Revisit what was top-of-mind from last week. What else has emerged? What patterns, if any, are coming up for you?*
-
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
+Need to actually fill out the when2meet or whatever to set up more working meetings.
+I think the big thing from my workflow is that I'm at a reset point - I'm moslty done with coursework, so I feel like right now is my time to reset and actually develop a workflow for my PhD. I spent a lot of time this week cleaning up my desktop/documents which I think is a big part of making me feel ready.
 :::
 
 ## Where within your workflow seems like a good place to start iterating?
@@ -68,33 +21,9 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 <!---p.2--->
 
 *What stands out about that place? Why are you motivated to focus on this part of your workflow?*
+I think the place to start is at the project documentation level. I'm motivated to start here because I need to bring other people on to my projects, and I also need to start developing my prospectus more intentionally so I think it'll be useful to "catch up" on everything I've done so far so I can get feedback from PIs and others I might bring in.
 
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
+I also want to continue building on my R workflows - been liking the {targets} package a lot.
 
 :::
 
@@ -107,33 +36,9 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 *For example, what was it about how it was organized, how different people contributed, how it was communicated? Remember meetings are part of workflows too*
 
-  
+What I loved about working at Talus was how we had a "kickoff" deck for every project that was available on Google Drive with basically a wiki for the project, including key deliverable dates, stakeholders, links to presentations and documentation. It was written in a relatively non-technical manner, so anyone could in theory pickup the document and jump into the project. If you led the project, it was your job to maintain it - and some people were better at that than others, but we also knew that our ability to bring in new people + get help was dependent on this document (and anytime you wanted Ellie to look at something she started there) so we were usually pretty good about keeping it up to date.
 
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
+I also loved how normal it was to be constantly slacking one another and jumping into huddles for small conversation about code or visualization. We only had weekly meetings when it was useful or a client wanted it.
 
 :::
 
@@ -144,76 +49,9 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 <!---p.2--->
 
 *What are things you’d like to learn or reuse from what you’ve seen? Think from colleagues, talks, and examples online*
-
-  
-
- 
-
-  
-
- 
-
-  
-
-  
-
- 
-
-  
-  
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
-
+Figuring out how to integrate BEAST and phylodynamics more into my workflow.
+Work more from the command line maybe? I don't know if this will actually make me faster.
+Better visualization pipelines.
 :::
 
 ## What are some of your values?
@@ -223,35 +61,7 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 <!---p.3--->
 
 *Think about something you enjoy doing. What qualities about yourself do you see coming through? What is important to you personally and professionally? How do you want to make people feel?*
-
-
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
+I enjoy writing and editing. I enjoy visualization theory. I think that I am good at asking big picture questions, and good at editing at the fine details. I think I am good at structuring data and organizing information. It is important to me on a personal and professional level that I am perceived as thorough/precise/reasoned – I don't let mistakes slip through, and I want it to be so that you can follow my logic and reasoning for projects. I want people to feel like they can interface with my work and understand each step of the process (transparency). Impact oriented questions . 
 :::
 
 ## How do your values show up in your workflow, and how you interact with colleagues?
@@ -264,33 +74,6 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 *How do you show up in your daily life at work? For example, being on time, being organized, interacting with people.*
 
 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
-  
-
-  
-
- 
 :::
 
 
@@ -302,72 +85,5 @@ Our purpose today is to spot things that could help your workflow. The ideas is 
 
 *Think about that place that seems like a good place to focus. What if you brought what you have seen and want to learn to that place, along with your values? You can draw this*
 
-  
-
- 
-
-  
-
- 
-
-  
-
-  
-
- 
-
-  
-  
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
 
 :::
